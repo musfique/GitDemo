@@ -1,0 +1,1 @@
+E:\DotNet\Batch 05\10.07.2017\GitDemo\GitDemoApp\GitDemoApp\bin\Debug\GitDemoApp.exe.config
