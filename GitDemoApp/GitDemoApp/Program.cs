@@ -10,7 +10,8 @@ namespace GitDemoApp
     {
         static void Main(string[] args)
         {
-            
+            int number = 10;
+            string name = "musfique";
         }
     }
 }
