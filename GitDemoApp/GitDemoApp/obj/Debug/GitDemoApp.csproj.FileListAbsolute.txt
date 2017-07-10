@@ -1,3 +1,8 @@
 E:\DotNet\Batch 05\10.07.2017\GitDemo\GitDemoApp\GitDemoApp\bin\Debug\GitDemoApp.exe.config
 E:\New folder\GitDemo\GitDemoApp\GitDemoApp\bin\Debug\GitDemoApp.exe.config
 C:\Users\MD. ALI AZAM\Desktop\My-Project\GitDemo\GitDemoApp\GitDemoApp\bin\Debug\GitDemoApp.exe.config
+E:\New folder\GitDemo\GitDemoApp\GitDemoApp\bin\Debug\GitDemoApp.exe
+E:\New folder\GitDemo\GitDemoApp\GitDemoApp\bin\Debug\GitDemoApp.pdb
+E:\New folder\GitDemo\GitDemoApp\GitDemoApp\obj\Debug\GitDemoApp.csprojResolveAssemblyReference.cache
+E:\New folder\GitDemo\GitDemoApp\GitDemoApp\obj\Debug\GitDemoApp.exe
+E:\New folder\GitDemo\GitDemoApp\GitDemoApp\obj\Debug\GitDemoApp.pdb
